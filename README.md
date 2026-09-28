@@ -1,6 +1,7 @@
-# The Studio Life
+# "Write in Public" by CGWire
 
-A blog about running an animation studio, collaboratively written.
+CGWire offers a free blog about running an animation studio, collaboratively written: [blog.cg-wire.com](https://blog.cg-wire.com)
+
 
 - 💬 **[Discord](https://discord.gg/4aPk855Yd)** 
 - 🛠 **[CONTRIBUTING.md](./CONTRIBUTING.md)**
@@ -9,9 +10,11 @@ A blog about running an animation studio, collaboratively written.
 
 There are good blogs and books about animation as a craft, and good books about business in general. 
 
-There is almost nothing about the parts in between: how the money actually reaches a studio, what a pipeline costs before it earns anything, when to hire a coordinator instead of another artist, what a studio is worth on the day its founder wants out.
+There is almost nothing about the two combined, actionable practices on how to run a studio from start to finish: how to make money as a new studio, how to build a pipeline, how to hire, and so on...
 
-This blog is an attempt to write those down. In the open, with names on it, across 2D series, 3D service work, VFX, motion graphics and game visuals, in more than one territory. Not one studio's opinion published as doctrine.
+We've been part of [the Open Startup movement](https://www.cg-wire.com/metrics) and sent out [build-in-public newsletter issues](https://blog.cg-wire.com/build-in-public-june-2026-update) for a while, so it felt natural to make the blog more transparent and collaborative.
+
+This blog is an attempt at helping studios and artists around the world make the industry more sustainable. In the open, with names on the articles, across 2D series, 3D service work, VFX, motion graphics and game visuals, in more than one territory. Not one studio's opinion published as doctrine.
 
 ## How this is made
 
@@ -23,18 +26,18 @@ Full detail on sourcing, credit, anonymity and licensing is in **[CONTRIBUTING.m
 
 ## Sharing your experience
 
-This blog is edited by one person, but it can't be written from one person's experience. We want to hear your war stories: a bid you'd be willing to show, how something works in your territory or discipline, or forty-five minutes on a call.
+This blog is edited by one person, but it can't be written from one person's experience. We want to hear your war stories.
 
 You don't need to write anything polished. Share it however it comes out, and it gets worked into the articles with credit.
 
-What's useful, from smallest to largest: a **correction** to a published article · **testimony**, named or anonymous · **data**, like rates, budgets, headcounts or timelines · an **interview**, if it's easier to talk than to type.
+What's useful, from smallest to largest: a **correction** to a published article, **testimony**, **data** (like rates, budgets, headcounts or timelines), an **interview** (if it's easier to talk than to type).
 
 Submissions are accepted in two places only:
 
-- **GitHub**: for a correction, use *Suggest an edit* on the article, which opens the pull request for you.
+- **GitHub**: for a correction, use the *Suggest an edit* button at the top of each blog article, which links to this repository.
 - [**Discord**](https://discord.gg/4aPk855Yd): post in `#blog-submissions`. For anonymous testimony, DM @bazamel instead of posting publicly.
 
-To avoid spam, submissions sent any other way (email, newsletter replies, social DMs) won't be picked up. If you're not comfortable with GitHub, Discord is the way in, and you'll be credited the same.
+To avoid spam, submissions sent any other way (email, newsletter replies, social DMs) won't be picked up. If you're not comfortable with GitHub, Discord is the way in. You'll be credited the same either way.
 
 → **[Sourcing, credit and anonymity rules](./CONTRIBUTING.md)**
 
@@ -56,7 +59,7 @@ To avoid spam, submissions sent any other way (email, newsletter replies, social
 ## Repository
 
 ```
-/content     articles, one folder per act
+/content     articles, one subfolder per act
 /data        datasets behind the charts
 /assets      diagrams, charts, photos
 ```

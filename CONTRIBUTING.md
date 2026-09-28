@@ -20,7 +20,7 @@ From smallest to largest: a **correction**, **testimony** (named or anonymous), 
 - **Give context with every number:** territory, year, discipline (2D, 3D, VFX, motion, games) and studio size. A day rate without these can't be used.
 - **Say how you know it.** Your own books, a bid you saw, an industry survey, or a best guess. All are welcome, but they're labelled differently on the page.
 - **Don't share what you're not allowed to.** If a figure is under NDA, round it, range it or leave it out. Strip client names unless they're already public.
-- **Disagreement is fine.** If your experience contradicts an article, say so. Where studios genuinely differ, both versions go in.
+- **Disagreement is fine.** If your experience contradicts an article, don't hesitate to say so. We like nuance.
 
 ## Credit
 
